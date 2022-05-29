@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays8523", "Arrays8523\Arrays8523.csproj", "{8618D501-EB0B-47CB-B119-448D11F67871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IliskiTesti", "IliskiTesti\IliskiTesti.csproj", "{0AE6B4AC-A05F-4224-9AC9-46B931609AC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8618D501-EB0B-47CB-B119-448D11F67871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8618D501-EB0B-47CB-B119-448D11F67871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8618D501-EB0B-47CB-B119-448D11F67871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8618D501-EB0B-47CB-B119-448D11F67871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE6B4AC-A05F-4224-9AC9-46B931609AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE6B4AC-A05F-4224-9AC9-46B931609AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE6B4AC-A05F-4224-9AC9-46B931609AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE6B4AC-A05F-4224-9AC9-46B931609AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9598034-FE76-458E-A39C-A6B67D7CFA1A}
+	EndGlobalSection
+EndGlobal
